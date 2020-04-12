@@ -1,0 +1,1441 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Trap&type=track&market=US&offset=0&limit=20",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4O15NlyKLIASxsJ0PrXPfz",
+          "id" : "4O15NlyKLIASxsJ0PrXPfz",
+          "name" : "Lil Uzi Vert",
+          "type" : "artist",
+          "uri" : "spotify:artist:4O15NlyKLIASxsJ0PrXPfz"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0fEO7g2c5onkaXsybEtuD2"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0fEO7g2c5onkaXsybEtuD2",
+        "id" : "0fEO7g2c5onkaXsybEtuD2",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a4865bd4e21a153d4d7f72f0",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a4865bd4e21a153d4d7f72f0",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a4865bd4e21a153d4d7f72f0",
+          "width" : 64
+        } ],
+        "name" : "Eternal Atake (Deluxe) - LUV vs. The World 2",
+        "release_date" : "2020-03-13",
+        "release_date_precision" : "day",
+        "total_tracks" : 32,
+        "type" : "album",
+        "uri" : "spotify:album:0fEO7g2c5onkaXsybEtuD2"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4O15NlyKLIASxsJ0PrXPfz",
+        "id" : "4O15NlyKLIASxsJ0PrXPfz",
+        "name" : "Lil Uzi Vert",
+        "type" : "artist",
+        "uri" : "spotify:artist:4O15NlyKLIASxsJ0PrXPfz"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 185438,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "USAT22001638"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7vTspUAmMKFkUpKL9HLZNL"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7vTspUAmMKFkUpKL9HLZNL",
+      "id" : "7vTspUAmMKFkUpKL9HLZNL",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Trap This Way (This Way)",
+      "popularity" : 77,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ceef39ef476d73a97ca1276d6fde8d9dfddec800?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:7vTspUAmMKFkUpKL9HLZNL"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6PXS4YHDkKvl1wkIl4V8DL",
+          "id" : "6PXS4YHDkKvl1wkIl4V8DL",
+          "name" : "Fetty Wap",
+          "type" : "artist",
+          "uri" : "spotify:artist:6PXS4YHDkKvl1wkIl4V8DL"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2gKQvajkEEaDtkqJ8FJ4uw",
+        "id" : "2gKQvajkEEaDtkqJ8FJ4uw",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273de6bd09b07e2b4af4e409f6c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02de6bd09b07e2b4af4e409f6c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851de6bd09b07e2b4af4e409f6c",
+          "width" : 64
+        } ],
+        "name" : "Fetty Wap (Deluxe)",
+        "release_date" : "2015-09-25",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:2gKQvajkEEaDtkqJ8FJ4uw"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6PXS4YHDkKvl1wkIl4V8DL",
+        "id" : "6PXS4YHDkKvl1wkIl4V8DL",
+        "name" : "Fetty Wap",
+        "type" : "artist",
+        "uri" : "spotify:artist:6PXS4YHDkKvl1wkIl4V8DL"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 222093,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "QM7XC1400004"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2d8JP84HNLKhmd6IYOoupQ",
+      "id" : "2d8JP84HNLKhmd6IYOoupQ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Trap Queen",
+      "popularity" : 73,
+      "preview_url" : "https://p.scdn.co/mp3-preview/62bf932cdc4d351174128d974397f5093de4f994?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:2d8JP84HNLKhmd6IYOoupQ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0H39MdGGX6dbnnQPt6NQkZ",
+          "id" : "0H39MdGGX6dbnnQPt6NQkZ",
+          "name" : "SAINt JHN",
+          "type" : "artist",
+          "uri" : "spotify:artist:0H39MdGGX6dbnnQPt6NQkZ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/06vukn88R2dOCd6sfMaogd"
+        },
+        "href" : "https://api.spotify.com/v1/albums/06vukn88R2dOCd6sfMaogd",
+        "id" : "06vukn88R2dOCd6sfMaogd",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2734fa9da3edca53373b5c823f6",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e024fa9da3edca53373b5c823f6",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048514fa9da3edca53373b5c823f6",
+          "width" : 64
+        } ],
+        "name" : "Ghetto Lenny's Love Songs",
+        "release_date" : "2019-08-23",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:06vukn88R2dOCd6sfMaogd"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0H39MdGGX6dbnnQPt6NQkZ",
+        "id" : "0H39MdGGX6dbnnQPt6NQkZ",
+        "name" : "SAINt JHN",
+        "type" : "artist",
+        "uri" : "spotify:artist:0H39MdGGX6dbnnQPt6NQkZ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+        "id" : "5f7VJjfbwm532GiveGC0ZK",
+        "name" : "Lil Baby",
+        "type" : "artist",
+        "uri" : "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 184699,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "USUYG1241086"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1pChm8ih9LlKhWncBJ6HLr"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1pChm8ih9LlKhWncBJ6HLr",
+      "id" : "1pChm8ih9LlKhWncBJ6HLr",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Trap",
+      "popularity" : 70,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2913ac34f79eb0f2e191b2798ab4ec53f9ffada9?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:1pChm8ih9LlKhWncBJ6HLr"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0FtsMKmZEq8fBWqdSOWtqp",
+          "id" : "0FtsMKmZEq8fBWqdSOWtqp",
+          "name" : "03 Greedo",
+          "type" : "artist",
+          "uri" : "spotify:artist:0FtsMKmZEq8fBWqdSOWtqp"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4idSpCksSGx8lXtY4nHS8d"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4idSpCksSGx8lXtY4nHS8d",
+        "id" : "4idSpCksSGx8lXtY4nHS8d",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273678e61adddfc4054f90e842a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02678e61adddfc4054f90e842a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851678e61adddfc4054f90e842a",
+          "width" : 64
+        } ],
+        "name" : "Still Summer In The Projects",
+        "release_date" : "2019-04-19",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:4idSpCksSGx8lXtY4nHS8d"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0FtsMKmZEq8fBWqdSOWtqp",
+        "id" : "0FtsMKmZEq8fBWqdSOWtqp",
+        "name" : "03 Greedo",
+        "type" : "artist",
+        "uri" : "spotify:artist:0FtsMKmZEq8fBWqdSOWtqp"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4tYSBptyGeVyZsk8JC4JHZ",
+        "id" : "4tYSBptyGeVyZsk8JC4JHZ",
+        "name" : "Shoreline Mafia",
+        "type" : "artist",
+        "uri" : "spotify:artist:4tYSBptyGeVyZsk8JC4JHZ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 221395,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "USUM71904344"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6ZxX2vmH5WLufcOqenLjfb"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6ZxX2vmH5WLufcOqenLjfb",
+      "id" : "6ZxX2vmH5WLufcOqenLjfb",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Trap House (feat. Shoreline Mafia)",
+      "popularity" : 68,
+      "preview_url" : null,
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:6ZxX2vmH5WLufcOqenLjfb"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2lNuUKrRrHRQ6cYVmrAazL"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2lNuUKrRrHRQ6cYVmrAazL",
+          "id" : "2lNuUKrRrHRQ6cYVmrAazL",
+          "name" : "lil ricefield",
+          "type" : "artist",
+          "uri" : "spotify:artist:2lNuUKrRrHRQ6cYVmrAazL"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/62sRzSEyqdRhkyA7Ha7NTy"
+        },
+        "href" : "https://api.spotify.com/v1/albums/62sRzSEyqdRhkyA7Ha7NTy",
+        "id" : "62sRzSEyqdRhkyA7Ha7NTy",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27307df8d643f7f990f5b1fb3b8",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0207df8d643f7f990f5b1fb3b8",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485107df8d643f7f990f5b1fb3b8",
+          "width" : 64
+        } ],
+        "name" : "Trapanese",
+        "release_date" : "2019-11-26",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:62sRzSEyqdRhkyA7Ha7NTy"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2lNuUKrRrHRQ6cYVmrAazL"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2lNuUKrRrHRQ6cYVmrAazL",
+        "id" : "2lNuUKrRrHRQ6cYVmrAazL",
+        "name" : "lil ricefield",
+        "type" : "artist",
+        "uri" : "spotify:artist:2lNuUKrRrHRQ6cYVmrAazL"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/02hku5R1SCUiTPydXMdKBp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/02hku5R1SCUiTPydXMdKBp",
+        "id" : "02hku5R1SCUiTPydXMdKBp",
+        "name" : "seiji oda",
+        "type" : "artist",
+        "uri" : "spotify:artist:02hku5R1SCUiTPydXMdKBp"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 117931,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "QZFYW1923783"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6IlSNchcDRJTOHOU6tg1t3"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6IlSNchcDRJTOHOU6tg1t3",
+      "id" : "6IlSNchcDRJTOHOU6tg1t3",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Trapanese",
+      "popularity" : 63,
+      "preview_url" : "https://p.scdn.co/mp3-preview/dcebfe22b58da0b6a828fcabc0d07fc839d1b923?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:6IlSNchcDRJTOHOU6tg1t3"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0H39MdGGX6dbnnQPt6NQkZ",
+          "id" : "0H39MdGGX6dbnnQPt6NQkZ",
+          "name" : "SAINt JHN",
+          "type" : "artist",
+          "uri" : "spotify:artist:0H39MdGGX6dbnnQPt6NQkZ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6Dho5cuziQQuBJ1IuS6FDU"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6Dho5cuziQQuBJ1IuS6FDU",
+        "id" : "6Dho5cuziQQuBJ1IuS6FDU",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2738bc53fb7fd4b5788bbf43147",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e028bc53fb7fd4b5788bbf43147",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048518bc53fb7fd4b5788bbf43147",
+          "width" : 64
+        } ],
+        "name" : "Trap (feat. Lil Baby)",
+        "release_date" : "2019-02-28",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:6Dho5cuziQQuBJ1IuS6FDU"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0H39MdGGX6dbnnQPt6NQkZ",
+        "id" : "0H39MdGGX6dbnnQPt6NQkZ",
+        "name" : "SAINt JHN",
+        "type" : "artist",
+        "uri" : "spotify:artist:0H39MdGGX6dbnnQPt6NQkZ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+        "id" : "5f7VJjfbwm532GiveGC0ZK",
+        "name" : "Lil Baby",
+        "type" : "artist",
+        "uri" : "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 184781,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "USUYG1241086"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0mnVrUP1TAoO223C0N2NYI"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0mnVrUP1TAoO223C0N2NYI",
+      "id" : "0mnVrUP1TAoO223C0N2NYI",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Trap (feat. Lil Baby)",
+      "popularity" : 61,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7939c2cfe694172b5a52a98dbfe6123201d203ac?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:0mnVrUP1TAoO223C0N2NYI"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+          "id" : "1RyvyyTE3xzB2ZywiAwp0i",
+          "name" : "Future",
+          "type" : "artist",
+          "uri" : "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0fUy6IdLHDpGNwavIlhEsl",
+        "id" : "0fUy6IdLHDpGNwavIlhEsl",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b2592bea12d840fd096ef965",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b2592bea12d840fd096ef965",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b2592bea12d840fd096ef965",
+          "width" : 64
+        } ],
+        "name" : "DS2 (Deluxe)",
+        "release_date" : "2015-07-17",
+        "release_date_precision" : "day",
+        "total_tracks" : 19,
+        "type" : "album",
+        "uri" : "spotify:album:0fUy6IdLHDpGNwavIlhEsl"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+        "id" : "1RyvyyTE3xzB2ZywiAwp0i",
+        "name" : "Future",
+        "type" : "artist",
+        "uri" : "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 183800,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "USSM11505588"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6elNeXUhiuHPD9hH5rocQi"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6elNeXUhiuHPD9hH5rocQi",
+      "id" : "6elNeXUhiuHPD9hH5rocQi",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Trap Niggas",
+      "popularity" : 60,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9a77efd1a40e9bcb8876eefcc6b7e5540bb2d300?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:6elNeXUhiuHPD9hH5rocQi"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3lGQReQwbt7KpYEQjisWZH"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3lGQReQwbt7KpYEQjisWZH",
+          "id" : "3lGQReQwbt7KpYEQjisWZH",
+          "name" : "Tae Laclair",
+          "type" : "artist",
+          "uri" : "spotify:artist:3lGQReQwbt7KpYEQjisWZH"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2ForF2IW0owixSG0NU8VKV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2ForF2IW0owixSG0NU8VKV",
+        "id" : "2ForF2IW0owixSG0NU8VKV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2734619158787b50010ffe3ce9f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e024619158787b50010ffe3ce9f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048514619158787b50010ffe3ce9f",
+          "width" : 64
+        } ],
+        "name" : "Trap",
+        "release_date" : "2019-04-09",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:2ForF2IW0owixSG0NU8VKV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3lGQReQwbt7KpYEQjisWZH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3lGQReQwbt7KpYEQjisWZH",
+        "id" : "3lGQReQwbt7KpYEQjisWZH",
+        "name" : "Tae Laclair",
+        "type" : "artist",
+        "uri" : "spotify:artist:3lGQReQwbt7KpYEQjisWZH"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 120084,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "TCADR1889563"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0JzMwtEhdk5aNkqM9d4D7U"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0JzMwtEhdk5aNkqM9d4D7U",
+      "id" : "0JzMwtEhdk5aNkqM9d4D7U",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Trap",
+      "popularity" : 52,
+      "preview_url" : "https://p.scdn.co/mp3-preview/0ff3f16febf3c914279e37832903fd565eb0ff4e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:0JzMwtEhdk5aNkqM9d4D7U"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7wlFDEWiM5OoIAt8RSli8b",
+          "id" : "7wlFDEWiM5OoIAt8RSli8b",
+          "name" : "YoungBoy Never Broke Again",
+          "type" : "artist",
+          "uri" : "spotify:artist:7wlFDEWiM5OoIAt8RSli8b"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4tCZ22E9RnUz09OaDJfaoO"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4tCZ22E9RnUz09OaDJfaoO",
+        "id" : "4tCZ22E9RnUz09OaDJfaoO",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273fe52c45d3b33d9e990e62aa0",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02fe52c45d3b33d9e990e62aa0",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851fe52c45d3b33d9e990e62aa0",
+          "width" : 64
+        } ],
+        "name" : "4Respect 4Freedom 4Loyalty 4WhatImportant",
+        "release_date" : "2018-09-14",
+        "release_date_precision" : "day",
+        "total_tracks" : 16,
+        "type" : "album",
+        "uri" : "spotify:album:4tCZ22E9RnUz09OaDJfaoO"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7wlFDEWiM5OoIAt8RSli8b",
+        "id" : "7wlFDEWiM5OoIAt8RSli8b",
+        "name" : "YoungBoy Never Broke Again",
+        "type" : "artist",
+        "uri" : "spotify:artist:7wlFDEWiM5OoIAt8RSli8b"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 156000,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "USAT21811084"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0B3kEodHfDTWBdqdh6L9d8"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0B3kEodHfDTWBdqdh6L9d8",
+      "id" : "0B3kEodHfDTWBdqdh6L9d8",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Trap House",
+      "popularity" : 56,
+      "preview_url" : "https://p.scdn.co/mp3-preview/35d0f9527f2d0dbb0b74ffeb05249df8c10a7167?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:0B3kEodHfDTWBdqdh6L9d8"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2jku7tDXc6XoB6MO2hFuqg",
+          "id" : "2jku7tDXc6XoB6MO2hFuqg",
+          "name" : "Tory Lanez",
+          "type" : "artist",
+          "uri" : "spotify:artist:2jku7tDXc6XoB6MO2hFuqg"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5huyg7SMILhRUxe3KHoJiA"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5huyg7SMILhRUxe3KHoJiA",
+          "id" : "5huyg7SMILhRUxe3KHoJiA",
+          "name" : "Nyce",
+          "type" : "artist",
+          "uri" : "spotify:artist:5huyg7SMILhRUxe3KHoJiA"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7MKfOJkVb3dQhc1J02rl5i"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7MKfOJkVb3dQhc1J02rl5i",
+        "id" : "7MKfOJkVb3dQhc1J02rl5i",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27399348af1314929f825656e73",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0299348af1314929f825656e73",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485199348af1314929f825656e73",
+          "width" : 64
+        } ],
+        "name" : "Traphouse",
+        "release_date" : "2015-01-15",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:7MKfOJkVb3dQhc1J02rl5i"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2jku7tDXc6XoB6MO2hFuqg",
+        "id" : "2jku7tDXc6XoB6MO2hFuqg",
+        "name" : "Tory Lanez",
+        "type" : "artist",
+        "uri" : "spotify:artist:2jku7tDXc6XoB6MO2hFuqg"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5huyg7SMILhRUxe3KHoJiA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5huyg7SMILhRUxe3KHoJiA",
+        "id" : "5huyg7SMILhRUxe3KHoJiA",
+        "name" : "Nyce",
+        "type" : "artist",
+        "uri" : "spotify:artist:5huyg7SMILhRUxe3KHoJiA"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 256133,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "USUM71600006"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5rqfg8Hz5D1aCcn2XUxzNA"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5rqfg8Hz5D1aCcn2XUxzNA",
+      "id" : "5rqfg8Hz5D1aCcn2XUxzNA",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Traphouse",
+      "popularity" : 57,
+      "preview_url" : null,
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:5rqfg8Hz5D1aCcn2XUxzNA"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6Ha4aES39QiVjR0L2lwuwq",
+          "id" : "6Ha4aES39QiVjR0L2lwuwq",
+          "name" : "Yo Gotti",
+          "type" : "artist",
+          "uri" : "spotify:artist:6Ha4aES39QiVjR0L2lwuwq"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/25o1u6zcmIp31q6CPwOaTe"
+        },
+        "href" : "https://api.spotify.com/v1/albums/25o1u6zcmIp31q6CPwOaTe",
+        "id" : "25o1u6zcmIp31q6CPwOaTe",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273bf685fb6f3f0e63ab6ca22b1",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02bf685fb6f3f0e63ab6ca22b1",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851bf685fb6f3f0e63ab6ca22b1",
+          "width" : 64
+        } ],
+        "name" : "Untrapped",
+        "release_date" : "2020-01-31",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:25o1u6zcmIp31q6CPwOaTe"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6Ha4aES39QiVjR0L2lwuwq",
+        "id" : "6Ha4aES39QiVjR0L2lwuwq",
+        "name" : "Yo Gotti",
+        "type" : "artist",
+        "uri" : "spotify:artist:6Ha4aES39QiVjR0L2lwuwq"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 150482,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "USSM12000529"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3XEKQQZxN4JHQ1pf4EO2jd"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3XEKQQZxN4JHQ1pf4EO2jd",
+      "id" : "3XEKQQZxN4JHQ1pf4EO2jd",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Trapped",
+      "popularity" : 53,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2a54bdc9c3908941c6442144d5d4a9757d05f091?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:3XEKQQZxN4JHQ1pf4EO2jd"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6TIYQ3jFPwQSRmorSezPxX",
+          "id" : "6TIYQ3jFPwQSRmorSezPxX",
+          "name" : "Machine Gun Kelly",
+          "type" : "artist",
+          "uri" : "spotify:artist:6TIYQ3jFPwQSRmorSezPxX"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3yWRq9Dd2UO5xyqxTjLDmp"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3yWRq9Dd2UO5xyqxTjLDmp",
+        "id" : "3yWRq9Dd2UO5xyqxTjLDmp",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273748388a726648841ed81027e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02748388a726648841ed81027e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851748388a726648841ed81027e",
+          "width" : 64
+        } ],
+        "name" : "bloom",
+        "release_date" : "2017-05-12",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:3yWRq9Dd2UO5xyqxTjLDmp"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6TIYQ3jFPwQSRmorSezPxX",
+        "id" : "6TIYQ3jFPwQSRmorSezPxX",
+        "name" : "Machine Gun Kelly",
+        "type" : "artist",
+        "uri" : "spotify:artist:6TIYQ3jFPwQSRmorSezPxX"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0VRj0yCOv2FXJNP47XQnx5",
+        "id" : "0VRj0yCOv2FXJNP47XQnx5",
+        "name" : "Quavo",
+        "type" : "artist",
+        "uri" : "spotify:artist:0VRj0yCOv2FXJNP47XQnx5"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7c0XG5cIJTrrAgEC3ULPiq",
+        "id" : "7c0XG5cIJTrrAgEC3ULPiq",
+        "name" : "Ty Dolla $ign",
+        "type" : "artist",
+        "uri" : "spotify:artist:7c0XG5cIJTrrAgEC3ULPiq"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 203000,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "USUM71702568"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5hfpu8saHLGedbHRtNCYjm"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5hfpu8saHLGedbHRtNCYjm",
+      "id" : "5hfpu8saHLGedbHRtNCYjm",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Trap Paris (feat. Quavo & Ty Dolla $ign)",
+      "popularity" : 57,
+      "preview_url" : null,
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:5hfpu8saHLGedbHRtNCYjm"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2iwGr6BtRjn629qLx9w7FQ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2iwGr6BtRjn629qLx9w7FQ",
+          "id" : "2iwGr6BtRjn629qLx9w7FQ",
+          "name" : "Adam Oh",
+          "type" : "artist",
+          "uri" : "spotify:artist:2iwGr6BtRjn629qLx9w7FQ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5nze9g9GmeVULFstc7IkPs"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5nze9g9GmeVULFstc7IkPs",
+        "id" : "5nze9g9GmeVULFstc7IkPs",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273fcf195ba83cf6607f46c464e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02fcf195ba83cf6607f46c464e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851fcf195ba83cf6607f46c464e",
+          "width" : 64
+        } ],
+        "name" : "Trapped in My Mind",
+        "release_date" : "2019-09-06",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:5nze9g9GmeVULFstc7IkPs"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2iwGr6BtRjn629qLx9w7FQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2iwGr6BtRjn629qLx9w7FQ",
+        "id" : "2iwGr6BtRjn629qLx9w7FQ",
+        "name" : "Adam Oh",
+        "type" : "artist",
+        "uri" : "spotify:artist:2iwGr6BtRjn629qLx9w7FQ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 216052,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZHN31962353"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/56H3K8a3gbWeX0cg4GjSzC"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/56H3K8a3gbWeX0cg4GjSzC",
+      "id" : "56H3K8a3gbWeX0cg4GjSzC",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Trapped in My Mind",
+      "popularity" : 57,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e7bb7f6d0a926332b07f97df230c31b72ad1a7d9?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:56H3K8a3gbWeX0cg4GjSzC"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1UdQqCUR7RwB9YYJONwbdM",
+          "id" : "1UdQqCUR7RwB9YYJONwbdM",
+          "name" : "Trapt",
+          "type" : "artist",
+          "uri" : "spotify:artist:1UdQqCUR7RwB9YYJONwbdM"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4jd0qgZ4gaHW6b0lgpZKWk"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4jd0qgZ4gaHW6b0lgpZKWk",
+        "id" : "4jd0qgZ4gaHW6b0lgpZKWk",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27374d9a833744be96426ee833c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0274d9a833744be96426ee833c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485174d9a833744be96426ee833c",
+          "width" : 64
+        } ],
+        "name" : "Trapt",
+        "release_date" : "2002-11-05",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:4jd0qgZ4gaHW6b0lgpZKWk"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1UdQqCUR7RwB9YYJONwbdM",
+        "id" : "1UdQqCUR7RwB9YYJONwbdM",
+        "name" : "Trapt",
+        "type" : "artist",
+        "uri" : "spotify:artist:1UdQqCUR7RwB9YYJONwbdM"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 285569,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "USWB10201991"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1AEYT6VxrxXPMoQUxsY0E4",
+      "id" : "1AEYT6VxrxXPMoQUxsY0E4",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Headstrong",
+      "popularity" : 72,
+      "preview_url" : "https://p.scdn.co/mp3-preview/08bf3158a4f3982b85c728831a10c20fd62f0ada?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:1AEYT6VxrxXPMoQUxsY0E4"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zctI4wO9XSKS8XwcnqEHk",
+          "id" : "5zctI4wO9XSKS8XwcnqEHk",
+          "name" : "Lil Mosey",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zctI4wO9XSKS8XwcnqEHk"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6lggWd5q9Rh66OkDE1eNDr"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6lggWd5q9Rh66OkDE1eNDr",
+        "id" : "6lggWd5q9Rh66OkDE1eNDr",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273db953460d6de87c6d6788cb5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02db953460d6de87c6d6788cb5",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851db953460d6de87c6d6788cb5",
+          "width" : 64
+        } ],
+        "name" : "Northsbest (Extended)",
+        "release_date" : "2018-10-19",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:6lggWd5q9Rh66OkDE1eNDr"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zctI4wO9XSKS8XwcnqEHk",
+        "id" : "5zctI4wO9XSKS8XwcnqEHk",
+        "name" : "Lil Mosey",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zctI4wO9XSKS8XwcnqEHk"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 144000,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "USUM71815937"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1Xi7FC0nwseWUBlBDPLnWI"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1Xi7FC0nwseWUBlBDPLnWI",
+      "id" : "1Xi7FC0nwseWUBlBDPLnWI",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Trapstar",
+      "popularity" : 56,
+      "preview_url" : null,
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:1Xi7FC0nwseWUBlBDPLnWI"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0fA0VVWsXO9YnASrzqfmYu",
+          "id" : "0fA0VVWsXO9YnASrzqfmYu",
+          "name" : "Kid Cudi",
+          "type" : "artist",
+          "uri" : "spotify:artist:0fA0VVWsXO9YnASrzqfmYu"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud"
+        },
+        "href" : "https://api.spotify.com/v1/albums/08eM9GRdr5BCCHNqS3Wwud",
+        "id" : "08eM9GRdr5BCCHNqS3Wwud",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273fd0ff75670bb437b8b8bd873",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02fd0ff75670bb437b8b8bd873",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851fd0ff75670bb437b8b8bd873",
+          "width" : 64
+        } ],
+        "name" : "Man On The Moon II: The Legend Of Mr. Rager",
+        "release_date" : "2010-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 17,
+        "type" : "album",
+        "uri" : "spotify:album:08eM9GRdr5BCCHNqS3Wwud"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0fA0VVWsXO9YnASrzqfmYu",
+        "id" : "0fA0VVWsXO9YnASrzqfmYu",
+        "name" : "Kid Cudi",
+        "type" : "artist",
+        "uri" : "spotify:artist:0fA0VVWsXO9YnASrzqfmYu"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 214346,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USUM71025509"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3fV84Z6UdxxHqfGIMmuSKg"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3fV84Z6UdxxHqfGIMmuSKg",
+      "id" : "3fV84Z6UdxxHqfGIMmuSKg",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Trapped In My Mind",
+      "popularity" : 52,
+      "preview_url" : null,
+      "track_number" : 17,
+      "type" : "track",
+      "uri" : "spotify:track:3fV84Z6UdxxHqfGIMmuSKg"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6R6EfP43F8ZuMcilsE4zs7",
+          "id" : "6R6EfP43F8ZuMcilsE4zs7",
+          "name" : "Tay Money",
+          "type" : "artist",
+          "uri" : "spotify:artist:6R6EfP43F8ZuMcilsE4zs7"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3eDWL70idwXAcbDtwQgfO3"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3eDWL70idwXAcbDtwQgfO3",
+        "id" : "3eDWL70idwXAcbDtwQgfO3",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e347edffb6ad982b96affe49",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e347edffb6ad982b96affe49",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e347edffb6ad982b96affe49",
+          "width" : 64
+        } ],
+        "name" : "DUH!",
+        "release_date" : "2018-11-16",
+        "release_date_precision" : "day",
+        "total_tracks" : 6,
+        "type" : "album",
+        "uri" : "spotify:album:3eDWL70idwXAcbDtwQgfO3"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6R6EfP43F8ZuMcilsE4zs7",
+        "id" : "6R6EfP43F8ZuMcilsE4zs7",
+        "name" : "Tay Money",
+        "type" : "artist",
+        "uri" : "spotify:artist:6R6EfP43F8ZuMcilsE4zs7"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 155324,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "QM6P41892686"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7fbqT6DZtWqGOv2bLwLqao"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7fbqT6DZtWqGOv2bLwLqao",
+      "id" : "7fbqT6DZtWqGOv2bLwLqao",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Trappers Delight",
+      "popularity" : 52,
+      "preview_url" : "https://p.scdn.co/mp3-preview/676aea5b5e5dd0449a6f5870e609fc89f6f3a081?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:7fbqT6DZtWqGOv2bLwLqao"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6XpXnnKHIhCOUbOLOJGe6o",
+          "id" : "6XpXnnKHIhCOUbOLOJGe6o",
+          "name" : "REASON",
+          "type" : "artist",
+          "uri" : "spotify:artist:6XpXnnKHIhCOUbOLOJGe6o"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7DH2aW83ei2A1wnsdCPhyr"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7DH2aW83ei2A1wnsdCPhyr",
+        "id" : "7DH2aW83ei2A1wnsdCPhyr",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27365af3cdcd1f8a75c9798ab9e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0265af3cdcd1f8a75c9798ab9e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485165af3cdcd1f8a75c9798ab9e",
+          "width" : 64
+        } ],
+        "name" : "Trapped In",
+        "release_date" : "2020-03-06",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:7DH2aW83ei2A1wnsdCPhyr"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6XpXnnKHIhCOUbOLOJGe6o",
+        "id" : "6XpXnnKHIhCOUbOLOJGe6o",
+        "name" : "REASON",
+        "type" : "artist",
+        "uri" : "spotify:artist:6XpXnnKHIhCOUbOLOJGe6o"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5usbqiU7sjvszjWecANDL6",
+        "id" : "5usbqiU7sjvszjWecANDL6",
+        "name" : "Boogie",
+        "type" : "artist",
+        "uri" : "spotify:artist:5usbqiU7sjvszjWecANDL6"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0g9vAlRPK9Gt3FKCekk4TW",
+        "id" : "0g9vAlRPK9Gt3FKCekk4TW",
+        "name" : "Ab-Soul",
+        "type" : "artist",
+        "uri" : "spotify:artist:0g9vAlRPK9Gt3FKCekk4TW"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 265704,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "TCAER2084066"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6xnIW5xFjRMNpG34mTMCQa"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6xnIW5xFjRMNpG34mTMCQa",
+      "id" : "6xnIW5xFjRMNpG34mTMCQa",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Trapped In",
+      "popularity" : 54,
+      "preview_url" : "https://p.scdn.co/mp3-preview/cb31bec06c0a0c42858d9b1c1efc8153b1330345?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:6xnIW5xFjRMNpG34mTMCQa"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2WjvvwAX0mdWwq3aFuUdtc",
+          "id" : "2WjvvwAX0mdWwq3aFuUdtc",
+          "name" : "Rebelution",
+          "type" : "artist",
+          "uri" : "spotify:artist:2WjvvwAX0mdWwq3aFuUdtc"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5FfbqVo0OapeCvoJvjWlOp"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5FfbqVo0OapeCvoJvjWlOp",
+        "id" : "5FfbqVo0OapeCvoJvjWlOp",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27390f8713033cb2f6bf3126569",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0290f8713033cb2f6bf3126569",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485190f8713033cb2f6bf3126569",
+          "width" : 64
+        } ],
+        "name" : "Free Rein",
+        "release_date" : "2018-06-15",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:5FfbqVo0OapeCvoJvjWlOp"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2WjvvwAX0mdWwq3aFuUdtc",
+        "id" : "2WjvvwAX0mdWwq3aFuUdtc",
+        "name" : "Rebelution",
+        "type" : "artist",
+        "uri" : "spotify:artist:2WjvvwAX0mdWwq3aFuUdtc"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 292428,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US4CL1810008"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1jd0C1XqXyXlCPzQNk1Bpp"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1jd0C1XqXyXlCPzQNk1Bpp",
+      "id" : "1jd0C1XqXyXlCPzQNk1Bpp",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Trap Door",
+      "popularity" : 52,
+      "preview_url" : "https://p.scdn.co/mp3-preview/3b78c8a3969d68e210b96b186d85c3b6042ab83e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:1jd0C1XqXyXlCPzQNk1Bpp"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6EYpuJIDJshhN4CHCg43te"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6EYpuJIDJshhN4CHCg43te",
+          "id" : "6EYpuJIDJshhN4CHCg43te",
+          "name" : "Kyle Exum",
+          "type" : "artist",
+          "uri" : "spotify:artist:6EYpuJIDJshhN4CHCg43te"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0QMKVzLTmaOmJVrUJGBzwk"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0QMKVzLTmaOmJVrUJGBzwk",
+        "id" : "0QMKVzLTmaOmJVrUJGBzwk",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e5b60a2efb20bd1a745ca2e0",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e5b60a2efb20bd1a745ca2e0",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e5b60a2efb20bd1a745ca2e0",
+          "width" : 64
+        } ],
+        "name" : "Trap 3 Little Pigs",
+        "release_date" : "2019-06-28",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:0QMKVzLTmaOmJVrUJGBzwk"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6EYpuJIDJshhN4CHCg43te"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6EYpuJIDJshhN4CHCg43te",
+        "id" : "6EYpuJIDJshhN4CHCg43te",
+        "name" : "Kyle Exum",
+        "type" : "artist",
+        "uri" : "spotify:artist:6EYpuJIDJshhN4CHCg43te"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 192446,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCAEH1914790"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3WoHA0OFlzXofpKnblSFmr"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3WoHA0OFlzXofpKnblSFmr",
+      "id" : "3WoHA0OFlzXofpKnblSFmr",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Trap 3 Little Pigs",
+      "popularity" : 52,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a5b141d2bf04e6dea5d7ec61068053f12e6aa805?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:3WoHA0OFlzXofpKnblSFmr"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=Trap&type=track&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 100020
+  }
+}

@@ -11,7 +11,7 @@ import clock
 
 class Stock:
     # Some static variables for www.test.com crawling
-    directory = 'D:\\Program\\Python\\Mining\\data\\'
+    directory = 'D:\\Program\\Python\\Eastmoney\\data\\'
     year_list = list(range(2010, 2020))
     quarter_list = ['03', '06', '09', '12']
     table_list = list(range(1, 8))

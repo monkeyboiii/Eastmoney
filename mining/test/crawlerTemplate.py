@@ -9,7 +9,7 @@ import os
 import time
 
 # 设置文件保存在D盘eastmoney文件夹下
-file_path = 'D:\\Program\\Python\\Mining\\mining\\test'
+file_path = 'D:\\Program\\Python\\Eastmoney\\mining\\test'
 if not os.path.exists(file_path):
     os.mkdir(file_path)
 os.chdir(file_path)

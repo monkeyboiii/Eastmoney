@@ -4,7 +4,7 @@ import psycopg2 as ps
 
 class Database:
     errors = 0
-    directory = 'D:\\Program\\Python\\Mining\\data\\资产负债表.csv'
+    directory = 'D:\\Program\\Python\\Eastmoney\\data\\资产负债表.csv'
     placeholder = ['', '-', 0, '0']
     login_info = {'database': 'stock_repo',
                   'user': 'stocker',
@@ -105,6 +105,6 @@ class Database:
 if __name__ == '__main__':
     # Pretty rigid form
     db = Database()
-    db.write_frame(file='D:\\Program\\Python\\Mining\\mining\\test\\Test.csv'
+    db.write_frame(file='D:\\Program\\Python\\Eastmoney\\mining\\test\\Test.csv'
                    , table='hybrid')
     print(str(db.errors) + ' errors, maybe duplicates.')
